@@ -1,0 +1,7 @@
+
+{
+  "service": "wsl-bridge",
+  "version": 1,
+  "status": "ready",
+  "message": "Hello ChatGPT from GitHub Pages"
+}
